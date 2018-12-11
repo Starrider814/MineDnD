@@ -20,6 +20,7 @@ TODO:
     [ ] DM can enable turn based combat
     [ ] Players can move in turn based combat mode
     [ ] Players can hit monsters
+    [ ] DM can impersonate/control monsters
     [ ] Monsters and Players Hit points reflect damage taken
 0.3: Magic users
     [ ] Spells can be cast
