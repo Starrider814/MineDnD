@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minednd",
+  "name": "MineDnD",
+  "description": "A Dungeon Master's Toolkit for Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Matt Foutch"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
